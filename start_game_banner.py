@@ -8,6 +8,7 @@ from pyfiglet import Figlet
 import sys
 
 
+
 def animation(screen):
     scenes = []
 
